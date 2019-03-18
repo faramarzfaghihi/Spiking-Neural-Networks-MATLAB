@@ -1,5 +1,5 @@
 %%%%%% MATLAB code for excitatory inhibitory neural network using Izhikevich model%%%%%%%%
-%%%%%%
+%%%%%%written by Faramarz Faghihi
 
 close all
 clear all
