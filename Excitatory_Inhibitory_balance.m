@@ -3,7 +3,7 @@
 %%%'The dependence of neuronal encoding efficiency on Hebbian plasticity 
 %%% and homeostatic regulation of neurotransmitter release'
 %%% Faghihi etal., front. in cellular neuroscience 2015
-%%% Writen by Faramarz Faghihi
+%%% Written by Faramarz Faghihi
 
 
 close all
