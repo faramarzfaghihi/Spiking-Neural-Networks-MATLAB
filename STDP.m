@@ -1,5 +1,5 @@
 %%%%%%% MATLAB code for STDP rule in Diehl et al., 2015 
-%%%%   writen by Faramarz Faghihi
+%%%%   written by Faramarz Faghihi
 
 close all;
 
