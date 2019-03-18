@@ -1,4 +1,4 @@
-%%%%%MATLAB code for adaptive LIF neuron by Faramarz Faghihi%%%%
+%%%%%MATLAB code for adaptive LIF neuron written by Faramarz Faghihi%%%%
 
 clear
 
